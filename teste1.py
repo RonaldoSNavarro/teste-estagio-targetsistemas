@@ -5,3 +5,4 @@ while k < indice:
     k += 1
     soma += k
 print(soma)
+# Resposta: 91
